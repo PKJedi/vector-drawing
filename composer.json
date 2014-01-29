@@ -1,11 +1,11 @@
 {
     "private": true,
-    "name": "pkjedi/vector-drawing",
+    "name": "PKJedi/vector-drawing",
     "license": "Proprietary",
     "authors": [
         {
             "name": "Petri Koivula",
-            "email": "petri.koivula@fraktio.fi"
+            "email": "petri.koivula@iki.fi"
         }
     ],
     "minimum-stability": "stable",
