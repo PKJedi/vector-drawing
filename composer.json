@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "name": "pkjedi/vector-drawing",
+    "license": "Proprietary",
+    "authors": [
+        {
+            "name": "Petri Koivula",
+            "email": "petri.koivula@fraktio.fi"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "~3.7",
+        "squizlabs/php_codesniffer": "~1.5"
+    },
+    "autoload": {
+        "psr-0": {"Larva": "library/"}
+    }
+}
